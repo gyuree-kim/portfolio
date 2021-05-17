@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4cb809c0.chunk.css",
+    "main.js": "/portfolio/static/js/main.1fe90a02.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1fe90a02.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
+    "static/js/2.0a7e7f63.chunk.js": "/portfolio/static/js/2.0a7e7f63.chunk.js",
+    "static/js/2.0a7e7f63.chunk.js.map": "/portfolio/static/js/2.0a7e7f63.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.b183c589.chunk.css.map": "/portfolio/static/css/2.b183c589.chunk.css.map",
+    "static/css/main.4cb809c0.chunk.css.map": "/portfolio/static/css/main.4cb809c0.chunk.css.map",
+    "static/js/2.0a7e7f63.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0a7e7f63.chunk.js.LICENSE.txt",
+    "static/media/auto-schedule-updater.3781308b.PNG": "/portfolio/static/media/auto-schedule-updater.3781308b.PNG",
+    "static/media/hanguler-web.880d9ece.PNG": "/portfolio/static/media/hanguler-web.880d9ece.PNG",
+    "static/media/mask-detector.c8293c95.png": "/portfolio/static/media/mask-detector.c8293c95.png",
+    "static/media/slick-theme.css": "/portfolio/static/media/slick.c94f7671.ttf",
+    "static/media/twitter.2eb9ed4a.PNG": "/portfolio/static/media/twitter.2eb9ed4a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/css/2.b183c589.chunk.css",
+    "static/js/2.0a7e7f63.chunk.js",
+    "static/css/main.4cb809c0.chunk.css",
+    "static/js/main.1fe90a02.chunk.js"
+  ]
+}
