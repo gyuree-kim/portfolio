@@ -11,7 +11,6 @@ function App() {
       <header className="header">
         <Typer/>
       </header>
-      <AboutMe/>
       <Project/>
       <Contact/>
     </div>
